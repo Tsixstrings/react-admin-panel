@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Toni",
+      "email": "anmama03@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Cecotec",
+      "email": "cecotec@cecotec.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "clients": [
+    {
+      "name": "Jose",
+      "company": "Cecotec",
+      "email": "jose@cecotec.com",
+      "phone": "96111222333",
+      "id": 2
+    },
+    {
+      "name": "Juan",
+      "company": "IBM",
+      "email": "juan@ibm.com",
+      "phone": "999666555",
+      "id": 3
+    },
+    {
+      "name": "Pedro",
+      "company": "Microsoft",
+      "email": "a@a.com",
+      "phone": "123",
+      "id": 4
+    },
+    {
+      "name": "asdf",
+      "company": "df",
+      "email": "df@gmail.com",
+      "phone": "df",
+      "id": 5
+    }
+  ]
+}
